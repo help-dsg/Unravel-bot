@@ -1,0 +1,4 @@
+from telegram.ext import CallbackQueryHandler
+
+# application.add_handler(...) kısımlarının arasına ekle:
+application.add_handler(CallbackQueryHandler(button_handler))
