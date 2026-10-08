@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-google-genai
-google-auth
-google-auth-oauthlib
